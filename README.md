@@ -35,4 +35,3 @@ This project is perfect for beginners learning Python.
 
 ```bash
 python number_guessing_game.py
-
